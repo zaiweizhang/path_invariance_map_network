@@ -19,7 +19,7 @@ import math
 parser = argparse.ArgumentParser()
 parser.add_argument('--gpu', type=int, default=0, help='GPU to use [default: GPU 0]')
 parser.add_argument('--model', default='pointnet2_sem_seg_voxel', help='Model name [default: model]')
-parser.add_argument('--log_dir', default='log_vol24_joint_multiv_sample_newa/', help='Log dir [default: log]')
+parser.add_argument('--log_dir', default='log_vol24_joint/', help='Log dir [default: log]')
 ### Start with isolated trained model
 parser.add_argument('--restore_dir', default='models/VOLII/best_model.ckpt', help='Restore dir [default: log]')
 parser.add_argument('--num_point', type=int, default=12288, help='Point Number [default: 8192]')
