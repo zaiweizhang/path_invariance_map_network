@@ -14,7 +14,7 @@ Since we use [pointnet2](https://github.com/charlesq34/pointnet2) codebase, some
 
 ## Usage
 
-First, download dataset [here](). (Point clouds are collected by Pointnet++)
+First, download dataset [here](https://drive.google.com/open?id=1tOFn5rcs-9KsmfBOO9au3jeJiGTX7ikn). (Point clouds are collected by Pointnet++)
 The pre-trained models can be downloaded [here](https://drive.google.com/open?id=1hZYRfFNsx9b0KMI5YwX_ZmbKRRQJto-Z).
 (Point clouds models are trained using Pointnet++, and voxel models are trained using 3D-U-Net. The training code for voxel models will be released soon.)
 
