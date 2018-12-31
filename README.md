@@ -7,6 +7,7 @@ Since we use [pointnet2](https://github.com/charlesq34/pointnet2) codebase, some
 
 ## Prerequisites
 
+- Two GPUs(GTX 1080 or better)
 - Python 2.7 
 - [Tensorflow 0.12.1](https://github.com/tensorflow/tensorflow/tree/r0.12)
 - [SciPy](http://www.scipy.org/install.html)
