@@ -32,3 +32,6 @@ Testing results are logged during the training stage.
 ## Author
 
 Zaiwei Zhang
+
+## License
+Our code is released under BSD License (see LICENSE file for details).
