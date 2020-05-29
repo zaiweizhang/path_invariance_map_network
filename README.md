@@ -1,6 +1,6 @@
 # Path Invariance Network in Tensorflow
 
-Tensorflow implementation of one application in [Path Invariance Map Networks](https://arxiv.org/abs/1812.11647): 3D Semantic Segmentation.
+Tensorflow implementation of one application in [Path Invariance Map Networks](https://arxiv.org/abs/1812.11647): 3D Scene Semantic Segmentation.
 Since we use [pointnet2](https://github.com/charlesq34/pointnet2) codebase, some of the code are borrowed from there.
 
 ![alt tag](intro.JPG)
